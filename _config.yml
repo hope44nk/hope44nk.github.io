@@ -1,0 +1,14 @@
+title: Shivangi Sinha  # You can add your name here
+
+logo: 1.jpeg # Use a relative path to logo image 
+
+description: Data science and Anlytics # Fix hyphenation 
+
+show_downloads: true # Fix spelling
+
+theme: jekyll-theme-minimal 
+
+plugins:
+  - jekyll-seo-tag # Add SEO plugin
+
+email: shivangisinha705@gmail.com # Allow visitors to contact you
